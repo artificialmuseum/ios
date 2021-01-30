@@ -1,7 +1,7 @@
 {
-  "name": "staging.artificialmuseum.com",
+  "name": "ios.artificialmuseum.com",
   "version": "0.0.1",
-  "description": "Artificial Museum - TheSystemCollective - Staging Environment.",
+  "description": "Artificial Museum - TheSystemCollective - Ios quirk Staging Environment.",
   "private": true,
   "scripts": {
     "start": "npm run dev",
