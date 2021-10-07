@@ -18,7 +18,7 @@
   },
   "homepage": "https://artificialmuseum.com",
   "devDependencies": {
-    "@grundstein/gss": "github:grundstein/gss"
+    "@grundstein/gss": "0.0.4"
   },
   "contributors": [
     {
